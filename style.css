@@ -82,11 +82,11 @@ button{font-family: 'Lexend Deca', sans-serif;
         padding-left:30px;
         padding-right:30px;
     }
-    .left{height:auto;
+    .left{height:60vh;
         border-top-right-radius:30px;
         border-top-left-radius:30px;
     }
-    .middle{height:auto;}
+    .middle{height:60vh;}
     .right{height:60vh;
         border-bottom-right-radius:30px;
         border-bottom-left-radius:30px;}
